@@ -1,5 +1,5 @@
 <?php
-namespace Mrubiosan\Tweet;
+namespace Mrubiosan;
 
 
 /**
