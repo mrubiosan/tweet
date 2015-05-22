@@ -1,4 +1,6 @@
 <?php
+namespace Mrubiosan\Tweet;
+
 
 /**
  * Twitter tweet's entities parser & formatter

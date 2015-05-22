@@ -1,0 +1,23 @@
+{
+    "name" : "mrubiosan/tweet",
+    "authors" : [{
+            "name" : "Marc Rubio Sanleandro",
+            "email" : "mrubiosan@gmail.com"
+        }
+    ],
+    "require" : {
+        "php" : ">=5.3.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Mrubiosan\\Tweet\\" : "src"
+        }
+    },
+    "support" : {
+        "email" : "mrubiosan@gmail.com"
+    },
+    "description" : "Parses a raw Tweet API Object and builds hashtags, user mentions and urls",
+    "keywords" : [
+        "tweet","tweeter","api","parser"
+    ]
+}
